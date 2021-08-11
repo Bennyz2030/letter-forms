@@ -1,3 +1,21 @@
 #story {
   display:none;
+  margin:auto;
+  border: solid black;
+  padding: 5px;
+  background-color: blanchedalmond;
+  font-family: cursive;
+  
+}
+
+#name {
+  font-weight: bold;
+}
+
+h1 {
+  font-style: oblique;
+}
+
+body {
+  background-color: cornsilk;
 }
